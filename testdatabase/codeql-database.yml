@@ -1,0 +1,46 @@
+---
+sourceLocationPrefix: E:\staticanalysis\tidyql_test
+baselineLinesOfCode: 625
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: cpp
+inProgress:
+  primaryLanguage: cpp
+  installedExtractors:
+    actions:
+     - E:/staticanalysis/codeql-home/codeql/actions
+    cpp:
+     - E:/staticanalysis/codeql-home/codeql/cpp
+    csharp:
+     - E:/staticanalysis/codeql-home/codeql/csharp
+    csv:
+     - E:/staticanalysis/codeql-home/codeql/csv
+    go:
+     - E:/staticanalysis/codeql-home/codeql/go
+    html:
+     - E:/staticanalysis/codeql-home/codeql/html
+    java:
+     - E:/staticanalysis/codeql-home/codeql/java
+    javascript:
+     - E:/staticanalysis/codeql-home/codeql/javascript
+    properties:
+     - E:/staticanalysis/codeql-home/codeql/properties
+    python:
+     - E:/staticanalysis/codeql-home/codeql/python
+    ruby:
+     - E:/staticanalysis/codeql-home/codeql/ruby
+    rust:
+     - E:/staticanalysis/codeql-home/codeql/rust
+    swift:
+     - E:/staticanalysis/codeql-home/codeql/swift
+    xml:
+     - E:/staticanalysis/codeql-home/codeql/xml
+    yaml:
+     - E:/staticanalysis/codeql-home/codeql/yaml
+creationMetadata:
+  sha: 48c954cf5485f42ac90128a9e6ea9caae3ae48b4
+  cliVersion: 2.23.3
+  creationTime: 2025-10-21T06:54:50.960326600Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: false
