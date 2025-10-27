@@ -1,1 +1,0 @@
-{"languages":{"cpp":{"displayName":"C/C++","files":["tests/main.cpp","src/secure_vulnerabilities.cpp","src/vulnerabilities.cpp","src/secure_c_vulnerabilities.c","src/c_vulnerabilities.c","include/vulnerabilities.h"],"linesOfCode":625,"name":"cpp"}}}
